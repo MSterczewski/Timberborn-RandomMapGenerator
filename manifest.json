@@ -1,8 +1,8 @@
 ﻿{
   "name": "RandomMapGenerator",
-  "version_number": "1.0.0",
-  "website_url": "https://github.com/thunderstore-io",
-  "description": "This mod allows you to generate random maps",
+  "version_number": "1.0.4",
+  "website_url": "https://github.com/MSterczewski/Timberborn-RandomMapGenerator",
+  "description": "This mod allows you to generate random maps. For more information visit github page",
   "dependencies": [
     "BepInEx-BepInExPack_Timberborn-5.4.15"
   ]

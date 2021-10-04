@@ -22,7 +22,7 @@ namespace RandomMapGenerator.MapGeneration
 		{
 			Height = size.y;
 			Width = size.x;
-			mapGenerator = new SimplestMapGenerationModule();
+			mapGenerator = new NormalDistributionMapGenerationModule();
 		}
 		public void Init()
 		{

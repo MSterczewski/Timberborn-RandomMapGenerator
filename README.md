@@ -30,6 +30,7 @@ If you have any feedback, please reach out to me at discord MSterczewski#0889
 - [@MSterczewski (aka Informati)](https://github.com/MSterczewski)
 
 # Changelog
-## v0.0.4 Added a new generator
+## v0.0.4
+- Added a new generator
 
   

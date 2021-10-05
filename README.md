@@ -10,19 +10,26 @@ I have prepared a few generators for maps. All of them implement `IMapGeneratorM
 The newest version of the generator is included in that class. 
 
 Below I will list all the generators in the orded of newest to oldest:
+## Normal distribution map generator
+A generator that create a random heightmap of size [w,h]. Size range is [1,7] with the highest chance of obtaining height=4. Height is distributed using normal distribution.
 ## Simplest map generator
 A generator that create a random heightmap of size [w,h]. The size range is [3,5] - modifiable in respected classes.
-## Installation
+
+
+# Installation
 In order to install the mod follow the instructions from BepInEx website:
 https://docs.bepinex.dev/articles/user_guide/installation/index.html
     
-## Feedback
+# Feedback
 
 If you have any feedback, please reach out to me at discord MSterczewski#0889
 
   
-## Authors
+# Authors
 
 - [@MSterczewski (aka Informati)](https://github.com/MSterczewski)
+
+# Changelog
+##v0.0.4 Added a new generator
 
   

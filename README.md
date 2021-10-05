@@ -9,16 +9,15 @@ Before we load a map to the creator, we create a json file with some hardcoded v
 I have prepared a few generators for maps. All of them implement `IMapGeneratorModule`. In order to switch to an older version of a generator, you need to change the module in `TemporaryMapGenerator` constructor. 
 The newest version of the generator is included in that class. 
 
+# Installation
+In order to install the mod follow the instructions from BepInEx website:
+https://docs.bepinex.dev/articles/user_guide/installation/index.html
+
 Below I will list all the generators in the orded of newest to oldest:
 ## Normal distribution map generator
 A generator that create a random heightmap of size [w,h]. Size range is [1,7] with the highest chance of obtaining height=4. Height is distributed using normal distribution.
 ## Simplest map generator
 A generator that create a random heightmap of size [w,h]. The size range is [3,5] - modifiable in respected classes.
-
-
-# Installation
-In order to install the mod follow the instructions from BepInEx website:
-https://docs.bepinex.dev/articles/user_guide/installation/index.html
     
 # Feedback
 
